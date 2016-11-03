@@ -1,0 +1,12 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2 {
+  font-family: 'Amatica SC';
+  font-size: 3em;
+}
+header p {
+  font-family: 'Amatica SC', 'Open Sans','Alegreya Sans';
+  text-transform: none;
+  font-size: 1.4em;
+}
